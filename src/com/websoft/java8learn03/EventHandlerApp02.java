@@ -1,4 +1,4 @@
-package com.websoft.java8.learn02;
+package com.websoft.java8learn03;
 
 /**
  * Created by Maciej on 2015-09-25.
